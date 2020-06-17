@@ -3,11 +3,11 @@ Cool Proptech Software
 
 Here's a list of some of the coolest and most cutting edge solutions for  proptech. If you would like to be included in the list dorp me a message on arthur@deepfinity.io and I'll a look through your suggestion and add you to the list.  
 
-##Digitising Processes (Resi)
+##Digitising Processes (Resi)  
 [Parcel Tracker](https://www.parceltracker.com/internal-parcel-tracking) - Software to help receptions and front of house log deliveries as they are made into a building
 
 
-##Digitising Processes (Commercial)
+##Digitising Processes (Commercial)  
 [Parcel Tracker](https://www.parceltracker.com/internal-parcel-tracking) - Software to help mailrooms log deliveries as they are made into a building
 [Wired Score](https://wiredscore.com/en/) - A rating mechanism by which you can understand the buildings digital infrastructure
 
