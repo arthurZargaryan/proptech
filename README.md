@@ -5,7 +5,9 @@ Here's a list of some of the coolest and most cutting edge solutions for  propte
 
 ##Tenant Engagement (Resi)
 [HqO](https://www.hqo.co) - frame themselves as the "operating system" for buidlings
+
 [Hom](https://www.iamhom.com/) - tenant experience platform focusing on improving tenant retention 
+
 [Bixby](https://www.livebixby.co/) - Amenity marketplace for buildings
 
 
