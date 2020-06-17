@@ -12,7 +12,6 @@ Here's a list of some of the coolest and most cutting edge solutions for  propte
 ##Tenant Engagement (Commercial)
 
 [Bisner](https://bisner.com/community?utm_campaign=c002&utm_medium=Ad&utm_source=Capterra) - Allows tenants to communicate, collaborate with each other and save all events into one place.
-
 [Disciple](https://www.disciplemedia.com/community-engagement-software/?utm_source=paid&utm_medium=capterra&utm_campaign=community_software&utm_term=community_software&capterra=capterra) - Build your own tenant experience software to monetized your community
 [Happeo](https://www.happeo.com/intranet-software-feature?utm_source=capterra&utm_medium=cpc&utm_term=Community&utm_channel=capterra) -  intranet platform building software
 [Spaceflow](https://spaceflow.io/en/our-product/?gclid=CjwKCAjw_qb3BRAVEiwAvwq6VrmNW1dlm2E0wViJ0kkRm5U83KGb3FI6GfBLGCFBmSMnDLwLtvMdthoCADwQAvD_BwE) - Connect different platforms into a seamless tenant experience
